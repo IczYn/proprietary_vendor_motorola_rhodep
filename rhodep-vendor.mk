@@ -368,4 +368,5 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
     ims \
-    com.android.hotwordenrollment.common.util
+    com.android.hotwordenrollment.common.util \
+    vendor.qti.hardware.sensorscalibrate-V1.0-java
